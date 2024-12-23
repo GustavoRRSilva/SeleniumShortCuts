@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 service = Service("./chromedriver.exe")
 
-def get_driver():
+def get_driver(name):
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(service=service,options=options)
     driver.get("https://www.merxenergia.com.br/")
