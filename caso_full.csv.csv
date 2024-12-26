@@ -1,0 +1,28 @@
+,status,origem,MS,data_boletim,data_coleta,state,data_dados,confirmed,deaths,vaccination,date_br,boletim_de_hoje,dados_de_hoje,UF,link_painel,frequencia_prints,obs_do_link
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:08:00,AC,2022-03-27,123808,1992,629432,27/3/22,FALSE,desatualizado,AC* ,http://covid19.ac.gov.br/monitoramento/notificacoes/boletim,,"14/8: A Sesacre informa ainda que, a partir desta data, a lista de óbitos por Covid-19 passará a ser divulgada de segunda a sexta-feira. Os óbitos do final de semana serão informados no boletim de segunda-feira."
+VACINA,ok,brasilio,,2022-03-26,27/03/2022 19:07:00,AL,2022-03-26,295972,6869,2498834,26/3/22,FALSE,desatualizado,AL* ,http://www.alagoascontraocoronavirus.al.gov.br/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:11:00,AM,2022-03-27,581070,14151,3078712,27/3/22,FALSE,desatualizado,AM* ,http://www.saude.am.gov.br/painel/corona/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:12:00,AP,2022-03-27,160328,2122,539806,27/3/22,FALSE,desatualizado,AP* ,,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:13:00,BA,2022-03-27,1530054,29658,11490956,27/3/22,FALSE,desatualizado,BA* ,https://bi.saude.ba.gov.br/transparencia/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:15:00,CE,2022-03-27,1239746,26708,7870797,27/3/22,FALSE,desatualizado,CE* ,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara,,
+VACINA,ok,brasilio,,2022-03-25,27/03/2022 19:07:00,DF,2022-03-25,691353,11573,2494044,25/3/22,FALSE,desatualizado,DF* ,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/,,
+VACINA,ok,ses,sim,2022-03-27,27/03/2022 19:42:00,ES,2022-03-27,1037188,14323,3342802,27/3/22,FALSE,desatualizado,ES** ,https://coronavirus.es.gov.br/painel-covid-19-es,,dados até às 17h (segundo o painel)
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:17:00,GO,2022-03-27,1269853,26212,5668095,27/3/22,FALSE,desatualizado,GO* ,https://indicadores.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent,,
+
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:18:00,MG,2022-03-27,3317401,60767,17373117,27/3/22,FALSE,desatualizado,MG* ,http://coronavirus.saude.mg.gov.br/painel,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:19:00,MS,2022-03-26,523565,10486,2218540,26/3/22,FALSE,desatualizado,MS* ,http://mais.saude.ms.gov.br/sense/app/51c38346-b65d-4f3e-8a80-5111a7a9da76/overview,,divulga dados do dia anterior
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:21:00,MT,2022-03-27,724653,14854,2704027,27/3/22,FALSE,desatualizado,MT* ,http://www.saude.mt.gov.br/painelcovidmt/,,
+jessica pode subir 19h,ok,ses,,2022-03-27,27/03/2022 19:23:00,PA,2022-03-27,751293,18079,6818647,27/3/22,FALSE,desatualizado,PA* ,https://www.covid-19.pa.gov.br/#/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:25:00,PB,2022-03-27,594891,10189,3439150,27/3/22,FALSE,desatualizado,PB* ,https://superset.plataformatarget.com.br/superset/dashboard/55/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:27:00,PE,2022-03-27,892115,21366,8073899,27/3/22,FALSE,desatualizado,PE* ,https://dados.seplag.pe.gov.br/apps/corona.html,,"divulga dados do dia anterior, mas estamos pondo o mesmo dia (por enquanto)"
+VACINA,ok,brasilio,,2022-03-26,27/03/2022 19:07:00,PI,2022-03-26,367515,7721,3044120,26/3/22,FALSE,desatualizado,PI* ,http://coronavirus.pi.gov.br/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:28:00,PR,2022-03-27,2407960,42896,9759942,27/3/22,FALSE,desatualizado,PR* ,,,"somar dados dos residentes fora do PR, na ultima pagina do boletim"
+,ok,ses,,2022-03-27,27/03/2022 19:25:00,RJ,2022-03-27,2078817,72695,13845285,27/3/22,FALSE,desatualizado,RJ* ,http://painel.saude.rj.gov.br/monitoramento/covid19.html,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:23:00,RN,2022-03-26,495749,8119,2872851,26/3/22,FALSE,desatualizado,RN* ,https://portalcovid19.saude.rn.gov.br/,,divulga dados do dia anterior
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:39:00,RO,2022-03-27,391943,7172,1274840,27/3/22,FALSE,desatualizado,RO* ,http://covid19.sesau.ro.gov.br/,,
+2022-01-30,ok,ses,,2022-03-26,27/03/2022 19:19:00,RR,2022-03-26,155062,2144,415931,26/3/22,FALSE,desatualizado,RR* ,https://roraimacontraocorona.rr.gov.br/transparencia/,,conferir a data dos dados no painel da coleta
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:18:00,RS,2022-03-27,2263880,38985,9585141,27/3/22,FALSE,desatualizado,RS* ,http://ti.saude.rs.gov.br/covid19/,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:17:00,SC,2022-03-27,1671175,21648,6165709,27/3/22,FALSE,desatualizado,SC* ,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9,,
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:15:00,SE,2022-03-27,325274,6309,1948903,27/3/22,FALSE,desatualizado,SE* ,https://todoscontraocorona.net.br/,,"dados atualizados pelo whatsapp de andre carvalho, assessor comunicação da SES SE: 7988072288"
+VACINA,ok,ses,,2022-03-27,27/03/2022 19:12:00,SP,2022-03-27,5232374,167110,41849677,27/3/22,FALSE,desatualizado,SP* ,https://www.seade.gov.br/coronavirus/,,
+vacina,ok,brasilio,,2022-03-26,27/03/2022 19:07:00,TO,2022-03-25,302502,4142,1126960,25/3/22,FALSE,desatualizado,TO* ,http://integra.saude.to.gov.br/covid19/InformacoesEpidemiologicas,,divulga dados do dia anterior
