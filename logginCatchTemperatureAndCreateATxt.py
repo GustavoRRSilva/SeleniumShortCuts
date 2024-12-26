@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from datetime import datetime as dt
 import time
 driver = get_driver('https://automated.pythonanywhere.com/login/')
 
@@ -25,7 +26,8 @@ def catchTemperature():
     return(temperatureValue)
 
 def create_txt(temperature):
-    txt = open('temperatureValue.txt','w+')
+    filename = f"{dt.now().strftime("%Y-%m-%d.%H-%M-%S")}.txt"
+    txt = open(filename,'w+')
     txt.write(temperature)
     txt.close()
 
